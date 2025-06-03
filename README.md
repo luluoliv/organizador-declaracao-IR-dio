@@ -49,14 +49,6 @@ Esta solução é ideal para quem busca uma maneira organizada e profissional de
 
 ---
 
-## 📸 Exemplos Visuais
-
-![Exemplo de Menu de Navegação](./images/menu-navegacao.png)
-
-![Exemplo de Validação de Dados](./images/validacao-dados.png)
-
----
-
 ## 🧑‍💻 Aprendizados
 
 Ao concluir este projeto, desenvolvi as seguintes habilidades:
