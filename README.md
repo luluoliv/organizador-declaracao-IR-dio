@@ -60,20 +60,6 @@ Ao concluir este projeto, desenvolvi as seguintes habilidades:
 
 ---
 
-## 👎 Links Úteis
-
-* [Documentação Oficial do GitHub](https://docs.github.com/pt)
-* [Guia de Markdown no GitHub](https://docs.github.com/pt/get-started/writing-on-github)
-* [Criar uma máquina virtual no Azure](https://learn.microsoft.com/pt-br/training/modules/create-windows-virtual-machine-in-azure/)
-
----
-
-## 🌟 Entrega
-
-Para concluir o desafio, envie o link deste repositório e uma breve descrição na plataforma da DIO, clicando no botão **“Entregar Projeto”**.
-
----
-
 ## 🚀 Sobre
 
 Este projeto foi desenvolvido como parte do **Desafio de Projeto** da DIO — **"Criando um Agregador de Dados para Imposto de Renda com Excel"**.
