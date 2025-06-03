@@ -49,6 +49,16 @@ Esta solução é ideal para quem busca uma maneira organizada e profissional de
 
 ---
 
+## 📸 Exemplos Visuais
+
+![Exemplo de Menu de Navegação](./images/titular.png)
+
+![Exemplo de Validação de Dados](./images/informes.png)
+
+![Exemplo de Validação de Dados](./images/notas.png)
+
+---
+
 ## 🧑‍💻 Aprendizados
 
 Ao concluir este projeto, desenvolvi as seguintes habilidades:
@@ -70,3 +80,5 @@ Este projeto foi desenvolvido como parte do **Desafio de Projeto** da DIO — **
 
 Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
 **\[Luara Lima]** — \[[luaralima205@gmail.com](mailto:luaralima205@gmail.com)]
+
+
